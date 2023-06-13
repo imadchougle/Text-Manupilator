@@ -309,7 +309,7 @@ export default function TextForm(props) {
           </div>
         </div>
         <div className="container my-3">
-          <h2>Preview of the Text </h2>
+          <h2>Preview of the Texts </h2>
 
           <div className="card">
             <div className="card-body">
