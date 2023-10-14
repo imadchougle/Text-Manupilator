@@ -19,6 +19,7 @@ Text transformation: Easily paste the edited text into other programmes or docum
 
 
 **Who Can Benefit?**
+
 Our website is intended to help everyone who frequently works with text, including individuals, professionals, students, and others. Here are some instances of people that could profit from using our tool:
 
 Improve your writing process and raise the calibre of your content, authors and writers.
